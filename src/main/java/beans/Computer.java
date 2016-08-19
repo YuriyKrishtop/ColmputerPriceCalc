@@ -12,7 +12,7 @@ public class Computer {
     private int ssd;
     private int video;
     private int power;
-    private double price;
+    private double price9;
 
 
     public int getCpu() {
