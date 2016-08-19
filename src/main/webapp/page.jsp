@@ -3,7 +3,7 @@
 <head>
 <title>Computer hardware website</title>
 <meta name="description" content="Computer hardware website">
-<link href="/css/style.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
     <style type="text/css">
         label {float:left; padding-right:10px;}
         #price{color:red}
