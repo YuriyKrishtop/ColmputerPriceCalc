@@ -22,6 +22,6 @@ public class ComputerTest {
         assertEquals(120, computer.getSsd());
         assertEquals(1000, computer.getHdd());
         assertEquals(8000, computer.getRam());
-        assertEquals(2000., computer.getPrice());
+        assertEquals(2001., computer.getPrice());
     }
 }
