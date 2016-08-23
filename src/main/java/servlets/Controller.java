@@ -34,8 +34,8 @@ public class Controller extends HttpServlet {
         computer.setSsd(ssd);
         computer.setVideo(video);
         computer.setPower(power);
-          computer.setPrice(cpu*2);
-        computer.setPrice(cpu*80 + ram*0.005 + hdd*0.1 + ssd*0.35 + video*0.1 + power*0.1 + 200);
+        computer.setPrice(cpu * 2);
+        computer.setPrice(cpu * 80 + ram * 0.005 + hdd * 0.1 + ssd * 0.35 + video * 0.1 + power * 0.1 + 200);
         req.getSession().setAttribute("computer", computer);
         req.getRequestDispatcher("page.jsp").forward(req, resp);
     }
