@@ -231,7 +231,7 @@
                                 <td class="body_txt"><h1><span
                                         class="welcome">Welcome to computer hardware website</span></h1>
 
-                                    <h2>You have choosen: </h2>
+                                    <h2> HI! You have choosen : </h2>
 
                                     <p>CPU core count: ${computer.cpu}<br>
                                         RAM: ${computer.ram}<br>
